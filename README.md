@@ -1,7 +1,7 @@
 Spark
 =====
 
-Check out our [site](sparkchat.us)!
+Check out our [site](http://sparkchat.us/)!
 
 Check out our [Pitch Deck](https://docs.google.com/presentation/d/1N7W1lldDNW1C8wXZ_64RhHlbAhBfciePbSvXoRoadhE/edit?usp=sharing)!
 
